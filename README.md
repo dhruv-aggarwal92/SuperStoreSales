@@ -1,4 +1,5 @@
-# SuperStoreSales -- Tableau
+# SuperStoreSales
+## Tableau
 It's a Data analysis minor project in tableau which helps us to analyze various aspects of this sales Data.
 <br>
 It includes
